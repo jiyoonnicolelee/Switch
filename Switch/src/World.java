@@ -8,7 +8,7 @@ public class World {
 		myList.add(new Radio());
 		myList.add(new SmartPhone ());
 		
-		for(int i=0; i <= 3; i++){
+		for(int i=0; i <4; i++){
 			myList.get(i).On();
 			
 		}
